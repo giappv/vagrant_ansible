@@ -44,3 +44,5 @@ Now we can walk to any specific project easily and run ansible there, for exampl
 cd site1.com/devops/ansible
 ansible-playbook -i inventories/staging playbook.yml
 ```
+
+I made [a blog](https://blog.beehexa.com/2016/10/23/how-to-work-on-windows-as-a-linux-developer-with-vagrant-and-ansible/) for explaining detail why I created this project. Please leave your comment if you like.
